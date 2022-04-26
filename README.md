@@ -1,4 +1,4 @@
-## Hi, I'm Dominik - aka [Grün] 👋
+## Hi, I'm Dominik - aka [DeisnerMedia] 👋
 
 ### IT Specialist for Application Development in Training (Year 2/3)
 
@@ -6,11 +6,9 @@
 
 🌱 I’m currently learning courses
 
-💻 Currently learning C#, Java & Vue
+💻 Currently learning React
 
 💬 Ask me everything
-
-⚡ Funfact: Coding will soon be as important as reading
 
 ### Connect with me:
 
