@@ -2,10 +2,6 @@
 
 ### IT Specialist for Application Development in Training (Year 2/3)
 
-<a href="https://github.com/devicons/devicon/releases">
-   <img alt="GitHub release (latest by semver)" src="https://img.shields.io/github/v/release/devicons/devicon?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver">
-</a>
-
 
 ### 💻 Currently learning
     
