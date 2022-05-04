@@ -2,13 +2,16 @@
 
 ### IT Specialist for Application Development in Training (Year 2/3)
 
-🔭 I’m currently working on a Cinema-Website Project
 
 ### 💻 Currently learning
     
     React
     Cybersecurity
     Hacking
+    
+### My current Projects
+> Cinema-Website (React)
+> Screenshare / Remote-Control (Java)
     
  ### Cybersecurity & Hacking
  <img src="https://tryhackme-badges.s3.amazonaws.com/GruenHub.png" alt="TryHackMe" />
