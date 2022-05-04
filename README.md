@@ -2,6 +2,10 @@
 
 ### IT Specialist for Application Development in Training (Year 2/3)
 
+<a href="https://github.com/devicons/devicon/actions">
+   <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/devicons/devicon/master?color=%2360be86&style=for-the-badge">
+</a>
+
 
 ### 💻 Currently learning
     
