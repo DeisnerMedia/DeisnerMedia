@@ -4,13 +4,13 @@
 
 🔭 I’m currently working on a Cinema-Website Project
 
-## 💻 Currently learning
+### 💻 Currently learning
     
     React
     Cybersecurity
     Hacking
     
- ## Cybersecurity & Hacking
+ ### Cybersecurity & Hacking
  <img src="https://tryhackme-badges.s3.amazonaws.com/GruenHub.png" alt="TryHackMe" />
 
 ### Connect with me:
