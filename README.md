@@ -1,4 +1,4 @@
-## Hi, I'm Dominik - aka [DeisnerMedia] 👋
+## Hi, I'm Dominik 👋
 
 ### IT Specialist for Application Development in Training (Year 2/3)
 
