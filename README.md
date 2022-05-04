@@ -2,7 +2,7 @@
 
 ### IT Specialist for Application Development in Training (Year 2/3)
 
-🔭 I’m currently working on some projects
+🔭 I’m currently working on a Cinema-Website Project
 
 💻 Currently learning:
     
