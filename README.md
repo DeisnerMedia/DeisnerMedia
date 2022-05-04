@@ -8,6 +8,9 @@
 `React`
 `Cybersecurity`
 `Hacking`
+
+ ### Cybersecurity & Hacking
+ [<img src="https://tryhackme-badges.s3.amazonaws.com/GruenHub.png" alt="TryHackMe" />][Tryhackme]
     
 ### My current Projects
 > <a href="https://gaunrmaxx.deisnermedia.de">Cinema-Website (React)</a>
@@ -15,9 +18,6 @@
 > <a href="https://deisnermedia.de">Portfolio</a>
 
 > Screenshare / Remote-Control (Java)
-    
- ### Cybersecurity & Hacking
- [<img src="https://tryhackme-badges.s3.amazonaws.com/GruenHub.png" alt="TryHackMe" />][Tryhackme]
 
 ### Connect with me:
 
