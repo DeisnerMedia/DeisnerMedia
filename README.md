@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on a Cinema-Website Project
 
-💻 Currently learning:
+## 💻 Currently learning
     
     React
     Cybersecurity
