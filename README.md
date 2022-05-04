@@ -5,9 +5,9 @@
 
 ### 💻 Currently learning
     
-    React
-    Cybersecurity
-    Hacking
+`React`
+`Cybersecurity`
+`Hacking`
     
 ### My current Projects
 > <a href="https://gaunrmaxx.deisnermedia.de">Cinema-Website (React)</a>
