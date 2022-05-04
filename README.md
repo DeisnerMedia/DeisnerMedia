@@ -4,15 +4,20 @@
 
 🔭 I’m currently working on some projects
 
-🌱 I’m currently learning courses
-
-💻 Currently learning React
+💻 Currently learning:
+    
+    React
+    Cybersecurity
+    Hacking
+    
+ ## Cybersecurity & Hacking
+ <img src="https://tryhackme-badges.s3.amazonaws.com/GruenHub.png" alt="TryHackMe" />
 
 💬 Ask me everything
 
 ### Connect with me:
 
-Discord: Grün#0001
+Email: Contact@deisnermedia.de
 
 ### Languages and Tools:
 
