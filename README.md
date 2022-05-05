@@ -2,6 +2,8 @@
 
 ### IT Specialist for Application Development in Training (Year 2/3)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deisnermedia&label=Profile%20views&color=b40e0e&style=flat" alt="glude" /> </p>
+
 
 ### 💻 Currently learning
     
