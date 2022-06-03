@@ -18,7 +18,7 @@
 
 > <a href="https://deisnermedia.de">Portfolio</a>
 
-> Screenshare / Remote-Control (Java)
+> Banking App (C#)
 
 ### Connect with me:
 
