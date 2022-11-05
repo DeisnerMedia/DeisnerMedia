@@ -6,9 +6,8 @@
 
 ### 💻 Currently learning
     
-`React`
+`ABAP / SAPUI5`
 `Cybersecurity`
-`Hacking`
 
  ### Cybersecurity & Hacking
  [<img src="https://tryhackme-badges.s3.amazonaws.com/GruenHub.png" alt="TryHackMe" />][Tryhackme]
