@@ -8,7 +8,7 @@
 
 ### 💻 Currently learning
     
-`ABAP / SAPUI5`
+`NEXT.JS`
 `Cybersecurity`
 
  ### Cybersecurity & Hacking
