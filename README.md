@@ -4,7 +4,6 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=deisnermedia&label=Profile%20views&color=b40e0e&style=flat" alt="deisnermedia" /> 
-    <img src="https://img.shields.io/github/followers/deisnermedia.svg?style=social&label=Follow&maxAge=2592000" />
 </p>
 
 ### 💻 Currently learning
