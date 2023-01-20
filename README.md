@@ -8,7 +8,7 @@
 
 ### 💻 Currently learning
     
-`NEXT.JS`
+`Next.js`
 `Cybersecurity`
 
  ### Cybersecurity & Hacking
