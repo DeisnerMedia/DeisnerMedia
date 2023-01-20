@@ -63,5 +63,14 @@ Email:
 > <b>Designing</b>
 <img align="left" alt="PS" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<br/><br/>
+
+### My Setup
+                                                                                                                     
+<img align="left" alt="nvidiartx2080" src="https://img.shields.io/badge/NVIDIA-RTX2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img align="left" alt="ryzen95950x" src="https://img.shields.io/badge/AMD-Ryzen_9_5950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+<img align="left" alt="win11" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<br/><br/>
+<img align="left" alt="macbookpro2021" src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white" />
 
 [Tryhackme]: https://tryhackme.com/p/GruenHub
