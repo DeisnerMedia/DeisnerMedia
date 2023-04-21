@@ -1,6 +1,6 @@
 ## Hi, I'm Dominik 👋
 
-### IT Specialist for Application Development in Training (Year 3/3)
+### IT Specialist for Application Development
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=deisnermedia&label=Profile%20views&color=b40e0e&style=flat" alt="deisnermedia" /> 
