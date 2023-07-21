@@ -22,7 +22,7 @@
 
 Email:
 
-    contact@deisnermedia.de
+    contact@deisnermedia.com
 
 ### Languages and Tools:
 
