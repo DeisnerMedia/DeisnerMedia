@@ -1,6 +1,6 @@
 ## Hi, I'm Dominik 👋
 
-### Computer Science Expert
+### Computer Science Expert / Full-Stack Developer
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=deisnermedia&label=Profile%20views&color=b40e0e&style=flat" alt="deisnermedia" /> 
