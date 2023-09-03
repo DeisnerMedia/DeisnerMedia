@@ -9,7 +9,6 @@
 ### 💻 Currently learning
     
 `Next.js`
-`Cybersecurity`
 
  ### Cybersecurity & Hacking
  [<img src="https://tryhackme-badges.s3.amazonaws.com/GruenHub.png" alt="TryHackMe" />][Tryhackme]
