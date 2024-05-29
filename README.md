@@ -9,13 +9,14 @@
 ### 💻 Currently learning
     
 `Cybersecurity`
+`Next.js`
 
  ### Cybersecurity & Hacking
  [<img src="https://tryhackme-badges.s3.amazonaws.com/GruenHub.png" alt="TryHackMe" />][Tryhackme]
     
 ### My current Projects
 
-> Portfolio
+> Portfolio V2
 
 ### Connect with me:
 
